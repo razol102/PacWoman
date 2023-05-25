@@ -1,0 +1,11 @@
+﻿  Game.cpp
+  GameWoManager.cpp
+  Menu.cpp
+  PacWoman.cpp
+  Position.cpp
+  main.cpp
+C:\Users\raz12\source\repos\Pac-Woman\Pac-Woman\main.cpp(10,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\raz12\source\repos\Pac-Woman\Pac-Woman\main.cpp(9,7): warning C4101: 'userMenuSelect': unreferenced local variable
+C:\Users\raz12\source\repos\Pac-Woman\Pac-Woman\main.cpp(9,23): warning C4101: 'userMove': unreferenced local variable
+  Generating Code...
+  Pac-Woman.vcxproj -> C:\Users\raz12\source\repos\Pac-Woman\Debug\Pac-Woman.exe
