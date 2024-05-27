@@ -3,7 +3,7 @@
 
 #include "GameCreatures.h"
 
-const int PAC_SPEED = 150;
+const int PAC_SPEED = 102;
 
 class PacWoman : public GameCreatures
 {
